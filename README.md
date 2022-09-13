@@ -5,7 +5,7 @@
 
 
 1. 재생 버튼을 누르면 타이머가 작동하면서 게임이 시작된다.
-![CarrotGameMockUp01](https://user-images.githubusercontent.com/111262557/189818000-a9aac3b2-9e39-4eb2-8057-edf363554c78.jpg)
+![CarrotGameMockUp01](https://user-images.githubusercontent.com/111262557/189818331-2cf846e7-391f-42b7-b10b-81ffd2f6597c.jpg)
 2. 제한 시간 내에 당근을 수확하면 성공! 벌레를 클릭하면 즉시 게임 아웃.
 ![CarrotGameMockUp02](https://user-images.githubusercontent.com/111262557/189817495-2c1f34e6-069c-41ad-ab5e-d089819360d9.jpg)
 3. 클릭한 당근 갯수는 카운트에서 마이너스되어 반영된다.
