@@ -1,7 +1,8 @@
 # CarrotGame
  * Making a simple game with vanilla JavaScript
- * 
  * 배포: https://stella-choi.github.io/CarrotGame/
+
+
 
 1. 재생 버튼을 누르면 타이머가 작동하면서 게임이 시작된다.
 ![carrotGame1](https://user-images.githubusercontent.com/111262557/189792090-79d4bc1b-ad2e-46fb-888d-26ac874690f5.png)
